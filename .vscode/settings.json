@@ -1,0 +1,16 @@
+{
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.editor.enablePreview": false,
+
+    "[typescript]": {
+        "editor.tabSize": 4,
+        "editor.detectIndentation": false
+    }
+}
